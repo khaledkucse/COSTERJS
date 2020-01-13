@@ -1,0 +1,15 @@
+{
+  "name": "src",
+  "version": "3.5.2",
+  "description": "npm is installed and all the packages should be installed",
+  "main": "TypeExtractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C M Khaled Saifullah",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "latest"
+  },
+  "devDependencies": {}
+}
